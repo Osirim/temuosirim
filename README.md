@@ -10,9 +10,6 @@ I help businesses make better decisions through data.
 - Python
 - SQL
 - Excel
-- HTML
-- CSS
-- JavaScript
 
 ## Current Projects
 
